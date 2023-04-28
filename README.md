@@ -1,2 +1,3 @@
-# Customer-API
-Customer API
+#mockJson
+
+To get fake data for testing
