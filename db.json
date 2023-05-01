@@ -13,7 +13,7 @@
         "metrics": {
             "http.server.requests": {
                 "count": 10,
-                "time": 205.45,
+                "time": 127.45,
                 "uri": 150
             }
         }
